@@ -1,0 +1,20 @@
+.product-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.product-form>div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.product-form label {
+    font-weight: bold;
+}
+
+.product-form input {
+    padding: 5px;
+    border: 1px solid #ccc;
+}

@@ -1,0 +1,13 @@
+.header {
+    background-color: rgb(46, 56, 78);
+    width: 100%;
+    align-self: start;
+    padding-left: 3rem;
+    color: aliceblue;
+}
+
+.title-header {
+    color: #333;
+    font-size: 24px;
+    margin: 0px;
+}

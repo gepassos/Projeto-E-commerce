@@ -1,0 +1,17 @@
+.form-field {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-weight: bold;
+}
+
+.form-field input {
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.product-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

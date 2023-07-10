@@ -1,0 +1,7 @@
+O Backend deve estar rodando e vai estar funcionando na porta 8080 
+
+Após ligar o backend, abra a pasta pelo terminal do frontend e executa o comando
+npm i 
+quando finalizar execute npm start que irá executar o server na porta http://localhost:5174/
+
+feito isso está tudo ai. As imagens são pegas das pastas, deixei 3 cadastradas, não deu muito certo o meu upload de imagens .. é isso.

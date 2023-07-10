@@ -1,0 +1,46 @@
+html,
+body {
+
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #dddbd9
+}
+
+.container {
+  background-color: #dddbd9
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.icons {
+  width: 25px;
+  height: 25px;
+  padding: 10px;
+}
+
+a {
+  padding-bottom: 15px;
+}
+
+.icons:hover {
+  z-index: 2;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1.3);
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1.3);
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1.5);
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
